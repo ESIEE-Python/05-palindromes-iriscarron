@@ -2,10 +2,10 @@
 
 
 def ispalindrome(p):
-
-    
-    
-    return False
+    if p==p[::-1]: 
+        return True
+    else:
+        return False
 
 #### Fonction principale
 
