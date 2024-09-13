@@ -3,7 +3,7 @@
 
 def ispalindrome(p):
 
-    # votre code ici
+    
     
     return False
 
